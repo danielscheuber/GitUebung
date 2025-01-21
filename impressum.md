@@ -6,7 +6,6 @@
 - **Französisch**: Mentions légales
 - **Italienisch**: Informazioni legali
 - **Spanisch**: Aviso legal
-- **[Eigene Sprache]**: [Hier Übersetzung einfügen]
 
 ---
 
